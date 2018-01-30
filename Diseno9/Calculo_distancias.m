@@ -1,6 +1,6 @@
-%Para calcular las distancias entre el centro del módulo y los centros de
-%los piñones
-a1 = 23;    %mm de distancia entre ejes de sinfin y piñón
+%Para calcular las distancias entre el centro del mÃ³dulo y los centros de
+%los piÃ±ones
+a1 = 23;    %mm de distancia entre ejes de sinfin y piÃ±Ã³n
 a2 = 25;
 
 vector_d = 45:5:100;
